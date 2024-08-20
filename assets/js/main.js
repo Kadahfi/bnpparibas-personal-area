@@ -34,7 +34,7 @@ const resetS = () => {
 const alert_block=()=>{
     Swal.fire(
         'COMPTE BLOQUE',
-        "Votre compte est bloqué pour motif d'impayé d'impot sur la fortune.",
+        "Votre compte est bloqué pour motif d'amende du délais de déblocage dépasser 14000€.",
         'warning',
       )
 }
